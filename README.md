@@ -63,7 +63,7 @@ Todos van en formato Gerber RS274X, en milímetros.
 
 ---
 
-## Lo que quedó pendiente (siendo honesta)
+## Lo que quedó pendiente
 
 - **5 relojes no se pudieron rutear:** REFCLKON1, ON2, ON3, ON5 y REFCLKN_SL7. Esas bolas del BGA quedaron rodeadas de otras pistas. Para conectarlos habría que rehacer parte del ruteo de los relojes vecinos.
 - **No hice la igualación de largos** entre P y N de los pares.
