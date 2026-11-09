@@ -1,6 +1,6 @@
 # Entrega Proyecto Final – Electrónica 2 y Diseño Electrónico 1
 
-Hola 👋 este es el repo de mi proyecto final. Es una placa **switch PCIe Gen3** basada en el chip **PI7C9X3G808GP** (Diodes/Pericom). Toma un enlace PCIe x4 del lado de la computadora (el conector de borde P0) y lo reparte a **3 slots PCIe x4** y **4 conectores M.2 (Key M)**.
+Este es el repo de mi proyecto final. Es una placa **switch PCIe Gen3** basada en el chip **PI7C9X3G808GP** (Diodes/Pericom). Toma un enlace PCIe x4 del lado de la computadora (el conector de borde P0) y lo reparte a **3 slots PCIe x4** y **4 conectores M.2 (Key M)**.
 
 La diseñé en **OrCAD X / Allegro 25.1**. Los componentes los escogí pensando en que se pueda mandar a hacer y ensamblar en **JLCPCB**, por eso el BOM trae los números LCSC.
 
